@@ -11,4 +11,4 @@
 
 👨‍💻 TECHNOLOGIES AND TOOLS
 ----------------------------------------------------------------------------------
-
+![Technical Skills](https://i.ibb.co/tbtrX54/aws-skills1.png)
