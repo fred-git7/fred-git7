@@ -10,3 +10,5 @@
 [Website](https://lp-tecknologies.com)  |  [Twitter](https://twitter.com/fred_ngoufack)  |  [Linkedin](https://www.linkedin.com/in/fred-ngoufack) 
 
 👨‍💻 TECHNOLOGIES AND TOOLS
+----------------------------------------------------------------------------------
+
