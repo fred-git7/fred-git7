@@ -1,0 +1,6 @@
+- 👋 **Hi there, I’m Fred**
+- -------------------------------------------------------------------------------
+- 👨‍💻 All of my projects are available at **here**
+- 🌱 I’m currently doing **DevOps** and **Terraform**
+- 👀 I’m looking to collaborate on **Cloud projects**
+- 📫 How to reach me **fred@lp-tecknologies.com**
